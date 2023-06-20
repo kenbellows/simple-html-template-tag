@@ -1,0 +1,24 @@
+{
+  "name": "simple-html-template-tag",
+  "version": "0.0.1",
+  "description": "A simple template literal tag function to convert text into an Element tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenbellows/simple-html-template-tag.git"
+  },
+  "keywords": [
+    "template-literal",
+    "tagged-template-literal",
+    "html"
+  ],
+  "author": "Ken Bellows",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenbellows/simple-html-template-tag/issues"
+  },
+  "homepage": "https://github.com/kenbellows/simple-html-template-tag#readme"
+}
